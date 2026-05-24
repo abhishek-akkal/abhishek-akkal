@@ -19,6 +19,9 @@
 <p align="center">
 ✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
 </p>
+
+---
+
 <h2 align="center">💫 About Me</h2>
 
 ```javascript
