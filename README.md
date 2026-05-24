@@ -44,7 +44,7 @@ const Abhishek = {
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p >
-<palign="center">
+<p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
