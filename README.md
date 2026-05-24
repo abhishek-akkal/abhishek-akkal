@@ -42,10 +42,7 @@ const Abhishek = {
 - 🤝 Open to learning and collaboration
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p >
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
 </p>
 
 ---
