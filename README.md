@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:020617,30:0F172A,60:1E3A8A,100:0EA5E9&text=Abhishek%20Akkal&fontColor=38BDF8&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20(Learning)%20💻%20|%20Aspiring%20Full%20Stack%20Developer%20🚀&descAlignY=63&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=420&color=0:020617,40:08111f,70:0f172a,100:020617&text=Abhishek%20Akkal&fontColor=38BDF8&fontSize=72&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20(Learning)%20💻%20|%20Aspiring%20Full%20Stack%20Developer%20🚀&descAlignY=50&descSize=22"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Abhishek;Aspiring+Full+Stack+Developer;Learning+Frontend+Development"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Abhishek;Aspiring+Full+Stack+Developer;Learning+Frontend+Development"/>
 </p>
 
 <p align="center">
@@ -16,7 +16,9 @@
 
 </p>
 
-<hr style="border:1px solid #0EA5E9">
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
 ---
 
