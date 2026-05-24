@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Abhishek Akkal</h1>
-
-<h3 align="center">
-Frontend Developer (Learning) 💻 | Aspiring Full Stack Developer 🚀
-</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Abhishek;Aspiring+Full+Stack+Developer;Learning+Frontend+Development">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Abhishek%20Akkal&fontSize=65&fontColor=ffffff&color=0:8A2BE2,30:6A5ACD,60:4169E1,100:00BFFF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20(Learning)%20💻%20|%20Aspiring%20Full%20Stack%20Developer%20🚀&descAlignY=63"/>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Abhishek%20Akkal&fontSize=55&fontColor=ffffff&color=0:8A2BE2,50:6A5ACD,100:00BFFF&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20(Learning)%20|%20Aspiring%20Full%20Stack%20Developer&descAlignY=65"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=800&color=00BFFF&lines=Hi+👋,+I'm+Abhishek;Aspiring+Full+Stack+Developer;Learning+Frontend+Development"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Frontend%20Developer-8A2BE2?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Aspiring%20Full%20Stack-4169E1?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Learning%20Frontend-00BFFF?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
 ---
