@@ -24,13 +24,13 @@
 
 <p align="center">
 const Abhishek = {
-  role:        "Frontend Developer 💻",
-  goal:        "Aspiring Full Stack Developer 🚀",
-  focus:       ["Frontend Development", "DSA"],
-  stack:       ["JavaScript", "React.js", "Tailwind CSS"],
-  currentGoal: "Build real projects & grow towards Full Stack Development",
-  education:   "BCA - Second Year 🎓",
-  location:    "India 🇮🇳"
+    role:        "Frontend Developer 💻",
+    goal:        "Aspiring Full Stack Developer 🚀",
+    focus:       ["Frontend Development", "DSA"],
+    stack:       ["JavaScript", "React.js", "Tailwind CSS"],
+    currentGoal: "Build real projects & grow towards Full Stack Development",
+    education:   "BCA - Second Year 🎓",
+    location:    "India 🇮🇳"
 };
 ```
 ✨ Turning ideas into projects and learning one step at a time.
