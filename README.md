@@ -47,57 +47,44 @@ const Abhishek = {
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Tech Stack & Tools
 
-🖼 **Gallery App**  
-API-based image gallery project
+<h3 align="center">🎨 Frontend</h3>
 
-🔗 https://github.com/abhishek-akkal/Gallery-App
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-🧮 **Neumorphic Calculator**  
-Calculator with neumorphic UI
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-🔗 https://github.com/abhishek-akkal/Neumorphic-Calculator
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-💼 **Social Nest (LinkedIn Clone)**  
-Frontend social platform inspired by LinkedIn
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-🔗 https://github.com/abhishek-akkal/SocialNest
+</p>
 
----
+<br>
 
-💱 **Currency Converter**  
-Currency converter using API integration
+<h3 align="center">🧰 Tools & Platforms</h3>
 
-🔗 https://github.com/abhishek-akkal/Currency-Converter
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-## 💻 Tech Stack
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-HTML • CSS • JavaScript • React • Tailwind CSS • Git • GitHub • Vercel
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-## 📚 Currently Learning
+</p>
 
-- Frontend Development
-- React
-- Problem Solving
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
----
-
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=abhishek-akkal&show_icons=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-akkal&layout=compact)
-
----
 
 ## 🌐 Connect With Me
 
