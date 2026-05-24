@@ -32,7 +32,7 @@ const Abhishek = {
   stack: ["JavaScript", "React.js", "Tailwind CSS"],
   currentGoal: "Build real projects & grow towards becoming a Full Stack Developer",
   education: "BCA - Second Year 🎓",
-  location: "India 🇮🇳"
+  location: "Pune, Maharashtra, India 🇮🇳"
 };
 ```
 
