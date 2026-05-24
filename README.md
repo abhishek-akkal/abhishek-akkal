@@ -33,6 +33,14 @@ const Abhishek = {
 };
 ```
 
+- 🚀 Working towards becoming a Full Stack Developer
+
+- 🛠 Building real projects
+
+- 🌱 Sharing progress publicly
+
+- 🤝 Open to learning and collaboration
+
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
