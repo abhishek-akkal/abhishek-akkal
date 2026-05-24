@@ -86,6 +86,17 @@ const Abhishek = {
 </p>
 
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/abhishek-akkal/abhishek-akkal/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+
 ## 🔗 Connect with Me
 
 <p align="center">
@@ -115,13 +126,3 @@ const Abhishek = {
 ---
 
 ⭐ Learning • Building • Sharing
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/abhishek-akkal/abhishek-akkal/output/github-contribution-grid-snake-dark.svg">
-</p>
-
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
