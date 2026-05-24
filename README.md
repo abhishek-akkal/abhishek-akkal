@@ -19,19 +19,23 @@
 <p align="center">
 ✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
 </p>
-
 <h2 align="center">💫 About Me</h2>
 
+```javascript
 const Abhishek = {
-    role:        "Frontend Developer 💻",
-    goal:        "Aspiring Full Stack Developer 🚀",
-    focus:       ["Frontend Development", "DSA"],
-    stack:       ["JavaScript", "React.js", "Tailwind CSS"],
-    currentGoal: "Build real projects & grow towards Full Stack Development",
-    education:   "BCA - Second Year 🎓",
-    location:    "India 🇮🇳"
+  role: "Frontend Developer 💻",
+  goal: "Aspiring Full Stack Developer 🚀",
+  focus: ["Frontend Development", "DSA"],
+  stack: ["JavaScript", "React.js", "Tailwind CSS"],
+  currentGoal: "Build real projects & grow towards Full Stack Development",
+  education: "BCA - Second Year 🎓",
+  location: "India 🇮🇳"
 };
 ```
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
