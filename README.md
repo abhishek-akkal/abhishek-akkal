@@ -1,18 +1,22 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Abhishek%20Akkal&fontSize=65&fontColor=ffffff&color=0:8A2BE2,30:6A5ACD,60:4169E1,100:00BFFF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20(Learning)%20💻%20|%20Aspiring%20Full%20Stack%20Developer%20🚀&descAlignY=63"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:020617,30:0F172A,60:1E3A8A,100:0EA5E9&text=Abhishek%20Akkal&fontColor=38BDF8&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20(Learning)%20💻%20|%20Aspiring%20Full%20Stack%20Developer%20🚀&descAlignY=63&descSize=20"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=800&color=00BFFF&lines=Hi+👋,+I'm+Abhishek;Aspiring+Full+Stack+Developer;Learning+Frontend+Development"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Abhishek;Aspiring+Full+Stack+Developer;Learning+Frontend+Development"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Frontend%20Developer-8A2BE2?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Aspiring%20Full%20Stack-4169E1?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend_Developer-0EA5E9?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Learning%20Frontend-00BFFF?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Aspiring_Full_Stack-2563EB?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Learning_Frontend-38BDF8?style=for-the-badge&logo=react&logoColor=white"/>
+
 </p>
+
+<hr style="border:1px solid #0EA5E9">
 
 ---
 
