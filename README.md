@@ -24,18 +24,51 @@
 
 <p align="center">
 
-🎓 BCA Student <br>
+const Abhishek = {
 
-💻 Frontend Developer (Learning) <br>
+    role: "Frontend Developer (Learning) 💻",
 
-🚀 Aspiring Full Stack Developer <br>
+    goal: "Aspiring Full Stack Developer 🚀",
 
-📚 Currently learning Frontend Development <br>
+    focus: [
+        "Frontend Development",
+        "Problem Solving",
+        "DSA"
+    ],
 
-🛠 Building projects and sharing my journey publicly
+    stack: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React.js",
+        "Tailwind CSS",
+        "Git",
+        "GitHub",
+        "Vercel"
+    ],
 
-</p>
+    projects: [
+        "Gallery App",
+        "Neumorphic Calculator",
+        "SocialNest",
+        "Currency Converter"
+    ],
 
+    currentGoal:
+    "Build impactful projects and move towards Full Stack Development",
+
+    education:
+    "BCA - Second Year 🎓",
+
+    location:
+    "India 🇮🇳",
+
+    funFact:
+    "Learning, building and sharing my journey 🌌"
+};
+```
+
+✨ Turning ideas into projects and learning one step at a time.
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
