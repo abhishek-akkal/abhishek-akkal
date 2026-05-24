@@ -22,7 +22,6 @@
 
 <h2 align="center">💫 About Me</h2>
 
-<p align="center">
 const Abhishek = {
     role:        "Frontend Developer 💻",
     goal:        "Aspiring Full Stack Developer 🚀",
@@ -33,9 +32,6 @@ const Abhishek = {
     location:    "India 🇮🇳"
 };
 ```
-✨ Turning ideas into projects and learning one step at a time.
-  
-<p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
