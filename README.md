@@ -47,7 +47,7 @@ const Abhishek = {
 
 ---
 
-## 🛠 Tech Stack & Tools
+<h2 align="center">🛠 Tech Stack & Tools ✨</h2>
 
 <h3 align="center">🎨 Frontend</h3>
 
@@ -86,7 +86,7 @@ const Abhishek = {
 </p>
 
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake 🐍</h2>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/abhishek-akkal/abhishek-akkal/output/github-contribution-grid-snake-dark.svg">
@@ -97,8 +97,7 @@ const Abhishek = {
 </p>
 
 
-## 🔗 Connect with Me
-
+<h2 align="center">🤝 Connect with Me 🤝</h2>
 <p align="center">
 
 <a href="mailto:akkalabhishek@gmail.com">
