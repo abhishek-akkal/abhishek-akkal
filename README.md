@@ -23,39 +23,16 @@
 <h2 align="center">💫 About Me</h2>
 
 <p align="center">
-
 const Abhishek = {
-  role: "Frontend Developer (Learning) 💻",
-  goal: "Aspiring Full Stack Developer 🚀",
-
-  focus: [
-    "Frontend Development",
-    "Problem Solving",
-    "DSA"
-  ],
-
-  stack: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "React.js",
-    "Tailwind CSS",
-    "Git",
-    "GitHub",
-    "Vercel"
-  ],
-
-  currentGoal:
-    "Build impactful projects and grow towards Full Stack Development",
-
-  education:
-    "BCA - Second Year 🎓",
-
-  location:
-    "India 🇮🇳"
+  role:        "Frontend Developer 💻",
+  goal:        "Aspiring Full Stack Developer 🚀",
+  focus:       ["Frontend Development", "DSA"],
+  stack:       ["JavaScript", "React.js", "Tailwind CSS"],
+  currentGoal: "Build real projects & grow towards Full Stack Development",
+  education:   "BCA - Second Year 🎓",
+  location:    "India 🇮🇳"
 };
 ```
-
 ✨ Turning ideas into projects and learning one step at a time.
   
 <p align="center">
