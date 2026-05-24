@@ -25,50 +25,39 @@
 <p align="center">
 
 const Abhishek = {
+  role: "Frontend Developer (Learning) 💻",
+  goal: "Aspiring Full Stack Developer 🚀",
 
-    role: "Frontend Developer (Learning) 💻",
+  focus: [
+    "Frontend Development",
+    "Problem Solving",
+    "DSA"
+  ],
 
-    goal: "Aspiring Full Stack Developer 🚀",
+  stack: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React.js",
+    "Tailwind CSS",
+    "Git",
+    "GitHub",
+    "Vercel"
+  ],
 
-    focus: [
-        "Frontend Development",
-        "Problem Solving",
-        "DSA"
-    ],
+  currentGoal:
+    "Build impactful projects and grow towards Full Stack Development",
 
-    stack: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React.js",
-        "Tailwind CSS",
-        "Git",
-        "GitHub",
-        "Vercel"
-    ],
-
-    projects: [
-        "Gallery App",
-        "Neumorphic Calculator",
-        "SocialNest",
-        "Currency Converter"
-    ],
-
-    currentGoal:
-    "Build impactful projects and move towards Full Stack Development",
-
-    education:
+  education:
     "BCA - Second Year 🎓",
 
-    location:
-    "India 🇮🇳",
-
-    funFact:
-    "Learning, building and sharing my journey 🌌"
+  location:
+    "India 🇮🇳"
 };
 ```
 
 ✨ Turning ideas into projects and learning one step at a time.
+  
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
