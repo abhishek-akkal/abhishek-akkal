@@ -86,16 +86,31 @@ const Abhishek = {
 </p>
 
 
-## 🌐 Connect With Me
+## 🔗 Connect with Me
 
-GitHub  
-https://github.com/abhishek-akkal
+<p align="center">
 
-X  
-https://x.com/AkkalAbhishek
+<a href="mailto:akkalabhishek@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-LinkedIn  
-(Add final profile link)
+<a href="https://www.linkedin.com/in/abhishek-akkal-0a0ab62b2/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/AkkalAbhishek" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/akkalabhishek_0028/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
 ---
 
