@@ -14,13 +14,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
-      - name: Generate Pacman Contribution Graph
+      - name: Generate Pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: abhishek-akkal
+          output_dir: dist
 
-      - name: Push generated files
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
