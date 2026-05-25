@@ -93,7 +93,7 @@ const Abhishek = {
 <h2 align="center">👾 Contribution Graph 👾</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/abhishek-akkal/abhishek-akkal/output/pacman-contribution-graph-dark.svg">
+<img src="https://raw.githubusercontent.com/abhishek-akkal/abhishek-akkal/output/pacman-contribution-graph.svg">
 </p>
 
 <p align="center">
