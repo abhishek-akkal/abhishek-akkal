@@ -3,24 +3,18 @@ name: Generate Pacman
 on:
   schedule:
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pacman contribution graph
-        uses: abozanona/pacman-contribution-graph@main
+      - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: abhishek-akkal
-          output_dir: dist
 
-      - name: Deploy
+      - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
