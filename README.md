@@ -50,7 +50,7 @@ const Abhishek = {
 
 ---
 
-<h2 align="center">🛠 Tech Stack & Tool ✨</h2>
+<h2 align="center">🛠 Tech Stack & Tools ✨</h2>
 
 <h3 align="center">🎨 Frontend</h3>
 
