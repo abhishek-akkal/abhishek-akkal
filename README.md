@@ -27,7 +27,7 @@
 ```javascript
 const Abhishek = {
   role: "Frontend Developer (Learning) 💻",
-  goal: "Aspiring Full Stack Developer🚀 ",
+  goal: "Aspiring Full Stack Developer 🚀",
   focus: ["Frontend Development", "DSA"],
   stack: ["JavaScript", "React.js", "Tailwind CSS"],
   currentGoal: "Build real projects & grow towards becoming a Full Stack Developer",
