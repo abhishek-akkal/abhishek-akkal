@@ -89,11 +89,10 @@ const Abhishek = {
 </p>
 
 ---
-
 ## 👾 Contribution Graph 👾
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/abhishek-akkal/abhishek-akkal/output/pacman-contribution-graph-dark.svg">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-akkal&theme=github-dark&hide_border=true&area=true">
 </p>
 
 <p align="center">
