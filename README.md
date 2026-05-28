@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:7E22CE,20:A855F7,45:8B5CF6,65:6366F1,85:3B82F6,100:06B6D4&text=Abhishek%20Akkal&fontSize=68&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20(Learning)%20💻%20|%20Aspiring%20Full%20Stack%20Developer%20🚀&descAlignY=62&descSize=20"/>
+<img width="100%" <img src="https://raw.githubusercontent.com/abhishek-akkal/abhishek-akkal/main/assets/banner.png" width="100%" />
 </p>
 
 <p align="center">
