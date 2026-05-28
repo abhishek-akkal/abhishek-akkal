@@ -90,7 +90,7 @@ const Abhishek = {
 
 ---
 
-## 👾 Contribution Graph 👾
+<h3 align-center>👾 Contribution Graph 👾</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhishek-akkal/abhishek-akkal/output/pacman-contribution-graph-dark.svg">
