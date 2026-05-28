@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100%" <img src="https://raw.githubusercontent.com/abhishek-akkal/abhishek-akkal/main/assets/banner.png" width="100%" />
+<img width="100%" <img src="[https://raw.githubusercontent.com/abhishek-akkal/abhishek-akkal/main/assets/banner.png](https://chatgpt.com/backend-api/estuary/content?id=file_00000000e950720882bedd028f98355c&fn=8e95ec12-cee5-4a7c-8755-88f5e2a1412b.png&cd=attachment&ts=494427&p=fs&cid=1&sig=ef78597ba2c0ef8c094c74824136028da1db54d920b4bfdaeb177247e7dae92c&v=0)" width="100%" />
 </p>
 
 <p align="center">
