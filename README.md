@@ -29,7 +29,7 @@ const Abhishek = {
   role: "Frontend Developer (Learning) 💻",
   goal: "Aspiring Full Stack Developer 🚀",
   focus: ["Frontend Development", "DSA"],
-  stack: ["HT","CSS", "JavaScript", "React.js", "Tailwind CSS"],
+  stack: ["HTM","CSS", "JavaScript", "React.js", "Tailwind CSS"],
   currentGoal: "Build real projects & grow towards becoming a Full Stack Developer",
   education: "BCA - Second Year 🎓",
   location: "Pune, Maharashtra, India 🇮🇳"
