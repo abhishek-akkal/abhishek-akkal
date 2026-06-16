@@ -131,4 +131,4 @@ const Abhishek = {
 
 ⭐ Learning • Building • Sharing 
 
-<p 
+<p align="center">
