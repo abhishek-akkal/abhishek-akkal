@@ -31,7 +31,7 @@ const Abhishek = {
   focus: ["Frontend Development", "DSA"],
   stack: ["HTML","CSS", "JavaScript", "React.js", "Tailwind CSS"],
   currentGoal: "Build real projects & grow towards becoming a Full Stack Developer",
-  education: "BCA - Second Year 🎓",
+  education: "BCA - Final Year 🎓",
   location: "Pune, Maharashtra, India 🇮🇳"
 };
 ```
