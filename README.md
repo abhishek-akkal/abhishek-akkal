@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/Aspiring_Full_Stack-6366F1?style=for-the-badge&logo=javascript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Learning_Frontend-06B6D4?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Developer-06B6D4?style=for-the-badge&logo=react&logoColor=white"/>
 
 </p>
 
