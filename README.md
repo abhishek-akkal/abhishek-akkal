@@ -134,5 +134,5 @@ const Abhishek = {
 ---
 
 <p align="center">
-  ⭐ Learning • Building • Sharing
+  ⭐ Learning • Building • Sharin
 </p>
