@@ -91,7 +91,7 @@ const Abhishek = {
 ---
 
 <h3 align="center">🔥 GitHub Streak 🔥</h3>
-
+<img src="https://streak-stats.demolab.com?user=abhishek-akkal&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 <p align="center">
   
 </p>
