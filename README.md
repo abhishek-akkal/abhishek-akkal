@@ -93,7 +93,7 @@ const Abhishek = {
 <h3 align="center">🔥 GitHub Streak 🔥</h3>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=abhishek-akkal&theme=tokyonight&hide_border=true&border_radius=10%22%20alt=%22GitHub%20Streak"/>  
+<img src="https://streak-stats.demolab.com?user=abhishek-akkal&theme=tokyonight&hide_border=true&border_radius=10" /> 
 </p>
 
 <p align="center">
