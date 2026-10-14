@@ -1,7 +1,10 @@
  <!-- CYBERPUNK GITHUB PROFILE — ABHISHEK AKKAL -->
 
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Abhishek Akkal — Full Stack Developer"/>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Abhishek+Akkal;Full+Stack+Developer;Learn.+Build.+Debug.+Repeat."
+    alt="Animated developer introduction"
+  />
 </p>
 
 <p align="center">
