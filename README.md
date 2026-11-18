@@ -1,3 +1,4 @@
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:7E22CE,20:A855F7,45:8B5CF6,65:6366F1,85:3B82F6,100:06B6D4&text=Abhishek%20Akkal&fontSize=68&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20💻%20|%20Building%20Real%20Projects%20🚀&descAlignY=62&descSize=20" alt="Abhishek Akkal banner"/>
 </p>
@@ -119,7 +120,6 @@ const Abhishek = {
         <a href="https://github.com/abhishek-akkal/Portfolio"><strong>💻 Source Code</strong></a>
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3 align="center">🌌 AnimeVerse</h3>
       <p align="center"><strong>Anime Discovery Platform</strong></p>
@@ -137,7 +137,6 @@ const Abhishek = {
       </p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">✨ Moment</h3>
@@ -155,7 +154,6 @@ const Abhishek = {
         <a href="https://github.com/abhishek-akkal/Moment-full-stack-project"><strong>💻 Source Code</strong></a>
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3 align="center">☕ Maison Café</h3>
       <p align="center"><strong>Modern Café Website</strong></p>
